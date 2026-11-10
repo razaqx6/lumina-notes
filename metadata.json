@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Note",
+  "description": "Student notebook app with liquid glass design, OneNote hierarchy, speech-to-text, and distraction-free writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
